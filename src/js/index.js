@@ -2,6 +2,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+//bootstrap
+
+import "bootstrap/dist/css/bootstrap.css";
+
 // include your styles into the webpack bundle
 import "../styles/index.css";
 
